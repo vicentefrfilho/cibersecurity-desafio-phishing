@@ -19,3 +19,6 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+# DESAFIO
+- Tive problemas ao realizar o processo, meu Kali não coletou os dados, pois aparentemente a página clonada não não os enviou ao terminal. Tentei diversas vezes, com sites diferentes, mas sem sucesso!
